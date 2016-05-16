@@ -4,6 +4,8 @@
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
 .vscode/
+/Assets/VSCode/
+/Assets/VSCode.meta
 
 
 ### Unity ###
